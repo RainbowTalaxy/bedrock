@@ -1,0 +1,8 @@
+{
+  "name": "bedrock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RainbowTalaxy/bedrock.git",
+  "author": "talaxy <fujianchensiwei@163.com>",
+  "license": "MIT"
+}
